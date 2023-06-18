@@ -1,4 +1,4 @@
-
+import SectionWrapper from '../hoc/SectionWrapper';
 
 const Contact = () => {
   

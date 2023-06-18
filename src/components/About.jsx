@@ -1,3 +1,4 @@
+import SectionWrapper from '../hoc/SectionWrapper';
 
 
 const ServiceCard = ({ index, title, icon }) => (
