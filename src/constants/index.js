@@ -116,55 +116,55 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Secure Redundant Network Design and Configuration",
+    company_name: "University",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Packet Tracer | Eve-Ng",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed secure redundant network using Cisco's hierarchical model.",
+      "Implemented Cisco ASA for enhanced network security.",
+      "Utilized knowledge from CCNA: Routing and Switching and CCNA Cyber Ops.",
+      "Ensured reliable connectivity and protection of data, systems, and networks.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Cyber Security Report and Analysis",
+    company_name: "University",
+    icon: starbucks,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Tenable Nessus® | CVE Database",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Prepared comprehensive report on fundamental aspects of cyber security.",
+      "Identified risks to data, systems, and networks.",
+      "Critically analyzed and evaluated various threats.",
+      "Assessed effectiveness of disaster recovery and risk prevention plans.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "MITRE ATT&CK Framework Integration and CTF-Based Penetration Testing",
+    company_name: "University",
+    icon: starbucks,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Nmap | Metasploit | Wireshark | John the Ripper | Burp Suite ",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "ntegrated MITRE ATT&CK framework into a Capture the Flag (CTF) based ethical hacking project.",
+      "Demonstrated clear justifications and achieved accurate results using various scanning types for comprehensive analysis.",
+      "Evaluated and implemented security techniques to protect systems and data during the CTF challenges.",
+      "Effectively communicated the findings and solutions derived from the CTF-based ethical hacking activities.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Web Application and Software Development",
+    company_name: "University",
+    icon: starbucks,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "ReactJS | SCSS (Sass) | Node.js | Express | MySQL | Java | HTML | CSS | JavaScript | NetBeans IDE",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Empower Lanka Project: Created an all-in-one platform for Sri Lankan entrepreneurs using ReactJS, SCSS, Node.js, Express, and MySQL.",
+      "Online Food Ordering Application: Developed a Java-based application with MySQL for convenient online food ordering using NetBeans IDE.",
+      "Dehiwala Zoo Conceptual Website: Built a conceptual website using HTML, CSS, and JavaScript to gain practical web development experience..",
+      "Experienced in developing RESTful APIs using technologies such as Express, Node.js, and MySQL, enabling seamless communication between front-end and back-end systems..",
     ],
   },
 ];
@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but he proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -180,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like he does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -188,7 +188,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After he optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -198,67 +198,75 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Online Food Ordering",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "This online food ordering application has been developed using Java and a MySQL database, utilizing the NetBeans IDE environment. Customers can browse food items and add them to the cart without logging in, but they need to be logged in to place an order. Logged-in users remain in a session until they log out..",
     tags: [
       {
-        name: "react",
+        name: "java",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "mysql",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "netbeans",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Jayodya-Methmal/online-food-ordering-system.git",
   },
   {
-    name: "Job IT",
+    name: "Empower Lanka",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Agile Teamwork Project: Developed the Empower Lanka platform using ReactJS, Node.js, Express, and MySQL, delivering a comprehensive all-in-one solution for Sri Lankan entrepreneurs, equipping them with essential tools and resources for business success.  (Visit GitHub for more information about Developmet team)",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "node js",
         color: "green-text-gradient",
       },
       {
         name: "scss",
         color: "pink-text-gradient",
       },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
       {
-        name: "nextjs",
+        name: "mysql",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "express",
         color: "green-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/Jayodya-Methmal/empower-lanka-lk.git",
+  },
+  {
+    name: "Zoo Concept Website",
+    description:
+      "The conceptual website for Dehiwala Zoo was meticulously designed with a focus on capturing the essence of the wildlife sanctuary. Through the combination of HTML, CSS, and JavaScript, the website incorporated visually stunning elements, seamless navigation, and interactive features.",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
       },
       {
         name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Jayodya-Methmal-Wishwasara/ZooWebAssignment.git",
   },
 ];
 
