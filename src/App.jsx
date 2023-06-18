@@ -18,6 +18,16 @@ const App = () => {
   return (
     <>
       3D Developer Portfolio
+      <BrowserRouter>
+        <div className="relative z-0 bg-primary ">
+
+          <div className="bg-hero-pattern bg-cover vg-no-repeat bg-center">
+            <Navbar/>
+
+          </div>
+        </div>
+      
+      </BrowserRouter>
     </>
   )
 }
