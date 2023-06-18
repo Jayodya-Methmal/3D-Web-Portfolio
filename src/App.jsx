@@ -9,7 +9,8 @@ import {
   CanvasLoader, 
   Navbar , 
   Tech ,
-  Works } from './components';
+  Works, 
+  StarsCanvas} from './components';
 
 
 const App = () => {
@@ -23,9 +24,22 @@ const App = () => {
 
           <div className="bg-hero-pattern bg-cover vg-no-repeat bg-center">
             <Navbar/>
-
+            <Hero/>
           </div>
+          <About/>
+          <Experience/>
+          <Tech/>
+          <Works/>
+          <Feedbacks/>
         </div>
+
+        {/* <div className="realative z-0">
+          <Contact/>
+          <StarsCanvas/>
+
+        </div> */}
+
+
       
       </BrowserRouter>
     </>
