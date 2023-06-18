@@ -32,7 +32,6 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   return (
     <>
-     Hwllo
     </>
   );
 };

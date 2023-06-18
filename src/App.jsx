@@ -18,7 +18,6 @@ const App = () => {
 
   return (
     <>
-      3D Developer Portfolio
       <BrowserRouter>
         <div className="relative z-0 bg-primary ">
 
