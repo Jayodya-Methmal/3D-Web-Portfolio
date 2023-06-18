@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Penetration Testing",
+    title: "Penetration testing",
     icon: web,
   },
   {
-    title: "Secuirty Analysis",
+    title: "Information Secuirty",
     icon: mobile,
   },
   {
-    title: "React Deveopmnt",
+    title: "Software Development",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Web Development",
     icon: creator,
   },
 ];

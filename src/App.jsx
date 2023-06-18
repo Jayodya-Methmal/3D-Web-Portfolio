@@ -5,8 +5,7 @@ import {
   Contact , 
   Experience , 
   Feedbacks , 
-  Hero , 
-  CanvasLoader, 
+  Hero ,  
   Navbar , 
   Tech ,
   Works, 
@@ -32,11 +31,11 @@ const App = () => {
           <Feedbacks/>
         </div>
 
-        {/* <div className="realative z-0">
+        <div className="realative z-0">
           <Contact/>
           <StarsCanvas/>
 
-        </div> */}
+        </div>
 
 
       
