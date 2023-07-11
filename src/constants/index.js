@@ -148,7 +148,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Nmap | Metasploit | Wireshark | John the Ripper | Burp Suite ",
     points: [
-      "ntegrated MITRE ATT&CK framework into a Capture the Flag (CTF) based ethical hacking project.",
+      "Integrated MITRE ATT&CK framework into a Capture the Flag (CTF) based ethical hacking project.",
       "Demonstrated clear justifications and achieved accurate results using various scanning types for comprehensive analysis.",
       "Evaluated and implemented security techniques to protect systems and data during the CTF challenges.",
       "Effectively communicated the findings and solutions derived from the CTF-based ethical hacking activities.",
