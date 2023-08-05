@@ -37,8 +37,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        'service_2b8juqx',
-        'template_3r24bsa',
+        'Did You Think You can get my API Keys :)',
+        'You can put yours btw your welcome!',
         {
           from_name: form.name,
           to_name: "Jayodya Methmal",
